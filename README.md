@@ -2,8 +2,6 @@
 
 A Streamlit-powered web application that extracts transcripts from YouTube videos and generates concise summaries using AI models via the OpenRouter API. Choose from short, medium, or long summaries to quickly grasp the key points of any YouTube video with available transcripts.
 
-![YouTube Transcript Summarizer Demo](https://via.placeholder.com/800x400.png?text=YouTube+Transcript+Summarizer+Demo)
-
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
